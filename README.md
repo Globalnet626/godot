@@ -1,6 +1,6 @@
 [![Godot Engine logo](/logo.png)](https://godotengine.org)
 
-## Godot Engine
+## Godot Engine GLOBALNET VER. DO NOT CLONE - USE THE OFFICIAL REPO INSTEAD - https://github.com/godotengine/godot
 
 Homepage: https://godotengine.org
 
